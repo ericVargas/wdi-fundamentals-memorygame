@@ -55,6 +55,16 @@ footer {
     margin: 8%;
 }
 
+.card img {
+    width: 150px;
+    height: 200px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background: #000000;
+    float: left;
+    margin: 0%;
+}
+
 .name {
     color: #ff0000;
 }
